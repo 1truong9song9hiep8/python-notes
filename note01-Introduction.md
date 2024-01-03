@@ -25,7 +25,17 @@ Sử dụng dấu `#` để comment 1 dòng code hoặc khi ta muốn chú thíc
 ```python
 #This is a comment.
 #print("Hello, World!")
+print("Hello, World!") #This is a comment
+```
+Chúng ta cũng có thể sử dụng dấu `"""`để viết chú thích nhiều dòng cho mã, khi thông dịch python vẫn sẽ đọc nội dung nhưng sẽ bỏ qua chúng.
+```python
+"""
+This is a comment
+written in
+more than just one line
+"""
 print("Hello, World!")
 ```
+
 
 
